@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (ОЧЕНЬ ВАЖНО)
+.env
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite (если потом добавишь базу)
+*.sqlite3
+*.db
+
+# Temporary files
+tmp/
+temp/
+
+# VS Code (если вдруг)
+.vscode/
